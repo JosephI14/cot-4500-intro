@@ -1,2 +1,2 @@
 I used numpy package
-Python 3 was used
+Python 3.9 was used
